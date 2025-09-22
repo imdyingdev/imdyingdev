@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm John Grafe</h1>
+<h1 align="center">Yo, I'm John Grafe</h1>
 
 ---
 
