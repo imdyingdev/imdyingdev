@@ -14,14 +14,6 @@
 
 ---
 
-<h2>🏆 GitHub Trophies</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=imdyingdev&theme=onedark&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies"/>
-</p>
-
----
-
 <h2>🚀 Favorite Fliptop Projects</h2>
 
 <table>
