@@ -1,12 +1,12 @@
-<h2 align="center">Yo, I'm John Grafe</h2>
+<h1 align="center">Yo, I'm John Grafe</h1>
 
-<h3>🎨 About Me<h3> 
+<h2>🎨 About Me<h2>
 - 💻 Developer | 🎨 Graphic & 3D Designer
 - 📧 Reach me at: **johnrgrafe@gmail.com**
 
 ---
 
-## 📊 GitHub Analytics
+<h2>📊 GitHub Analytics<h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=imdyingdev&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠 Tech Stack
+<h2>🛠 Tech Stack<h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
