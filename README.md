@@ -1,7 +1,5 @@
 <h1 align="center">Yo, I'm John Grafe</h1>
 
----
-
 <h2>🎨 About Me</h2>
 
 - 💻 Developer | 🎨 Graphic & 3D Designer  
