@@ -19,3 +19,14 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=imdyingdev&theme=onedark&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies"/>
 </p>
+
+---
+
+<h2>🚀 Favorite Projects</h2>
+
+<p align="center">
+  <a href="https://izabuhay.vercel.app" target="_blank">
+    <img src="assets/izabuhay-preview.png" alt="Izabuhay App Preview" width="600"/>
+  </a>
+</p>
+
