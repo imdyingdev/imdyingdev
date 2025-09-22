@@ -1,4 +1,4 @@
-<h1 align="center">Yo, I'm John Grafe</h1>
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a5ba1d16-74ea-498d-ad09-18090396371b" /><h1 align="center">Yo, I'm John Grafe</h1>
 
 - 💻 Developer | 🎨 Graphic & 3D Designer  
 - 📧 Reach me at: <strong>johnrgrafe@gmail.com</strong>  
@@ -22,7 +22,7 @@
 
 ---
 
-<h2>🚀 Favorite Projects</h2>
+<h2>🚀 Favorite Fliptop Projects</h2>
 
 <table>
   <tr>
@@ -36,6 +36,13 @@
     <td align="center">
       <a href="https://flipmatch-955668808781.us-central1.run.app/" target="_blank">
         <img src="media/whatifbattles-preview.png" alt="FlipMatch App Preview" width="400"/>
+      </a>
+      <br/>
+      <strong>What if Battles?</strong>
+    </td>
+        <td align="center">
+      <a href="https://fliptopcards.art/" target="_blank">
+        <img src="media/fliptopcards-preview.png" alt="Fliptop Cards Collection" width="400"/>
       </a>
       <br/>
       <strong>What if Battles?</strong>
