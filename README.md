@@ -24,15 +24,22 @@
 
 <h2>🚀 Favorite Projects</h2>
 
-<p align="center">
-  <a href="https://izabuhay.vercel.app" target="_blank">
-    <img src="media/izabuhay-preview.png" alt="Izabuhay App Preview" width="600"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://flipmatch-955668808781.us-central1.run.app/" target="_blank">
-    <img src="media/whatifbattles-preview.png" alt="Izabuhay App Preview" width="600"/>
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://izabuhay.vercel.app" target="_blank">
+        <img src="media/izabuhay-preview.png" alt="Izabuhay App Preview" width="400"/>
+      </a>
+      <br/>
+      <strong>Izabuhay</strong>
+    </td>
+    <td align="center">
+      <a href="https://flipmatch-955668808781.us-central1.run.app/" target="_blank">
+        <img src="media/whatifbattles-preview.png" alt="FlipMatch App Preview" width="400"/>
+      </a>
+      <br/>
+      <strong>FlipMatch</strong>
+    </td>
+  </tr>
+</table>
 
