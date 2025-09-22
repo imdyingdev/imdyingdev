@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="https://izabuhay.vercel.app" target="_blank">
-    <img src="assets/izabuhay-preview.png" alt="Izabuhay App Preview" width="600"/>
+    <img src="media/izabuhay-preview.png" alt="Izabuhay App Preview" width="600"/>
   </a>
 </p>
 
