@@ -1,4 +1,4 @@
-# 👋 Hi, I'm imdyingdev!
+<h1 align="center">👋 Hi, I'm John Grafe</h1>
 
 ---
 
@@ -32,4 +32,7 @@
 
 ---
 
-✨ *Thanks for visiting my profile!*
+## 🎨 About Me
+
+- 💻 Developer | 🎨 Graphic & 3D Designer  
+- 📧 Reach me at: **johnrgrafe@gmail.com**
