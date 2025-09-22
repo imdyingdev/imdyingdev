@@ -31,14 +31,14 @@
         <img src="media/izabuhay-preview.png" alt="Izabuhay App Preview" width="400"/>
       </a>
       <br/>
-      <strong>Izabuhay</strong>
+      <strong>Isabuhay Tournament Analytics</strong>
     </td>
     <td align="center">
       <a href="https://flipmatch-955668808781.us-central1.run.app/" target="_blank">
         <img src="media/whatifbattles-preview.png" alt="FlipMatch App Preview" width="400"/>
       </a>
       <br/>
-      <strong>FlipMatch</strong>
+      <strong>What if Battles?</strong>
     </td>
   </tr>
 </table>
