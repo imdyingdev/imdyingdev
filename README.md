@@ -1,5 +1,3 @@
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a5ba1d16-74ea-498d-ad09-18090396371b" /><h1 align="center">Yo, I'm John Grafe</h1>
-
 - 💻 Developer | 🎨 Graphic & 3D Designer  
 - 📧 Reach me at: <strong>johnrgrafe@gmail.com</strong>  
 
