@@ -1,6 +1,6 @@
 <h2 align="center">Yo, I'm John Grafe</h2>
 
-<h1>🎨 About Me</h1> 
+<p>🎨 About Me<p> 
 - 💻 Developer | 🎨 Graphic & 3D Designer
 - 📧 Reach me at: **johnrgrafe@gmail.com**
 
