@@ -37,7 +37,7 @@
         <img src="media/fliptopcards-preview.png" alt="Fliptop Cards Collection" width="400"/>
       </a>
       <br/>
-      <strong>What if Battles?</strong>
+      <strong>Fliptop Cards Collection</strong>
     </td>
   </tr>
 </table>
