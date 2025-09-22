@@ -1,7 +1,5 @@
 <h1 align="center">Yo, I'm John Grafe</h1>
 
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
