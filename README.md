@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Justine Norie!
+# 👋 Hi there, I'm imdyingdev!
 
 - 🌱 I'm currently learning **JavaScript**
 - 📫 Reach me at **justinedelacruz97@gmail.com**
@@ -7,10 +7,10 @@
 
 ## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imdyingdev&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imdyingdev&layout=compact&theme=radical)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=imdyingdev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
