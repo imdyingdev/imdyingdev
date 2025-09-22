@@ -1,3 +1,5 @@
+<h1 align="center">Yo, I'm John Grafe</h1>
+
 - 💻 Developer | 🎨 Graphic & 3D Designer  
 - 📧 Reach me at: <strong>johnrgrafe@gmail.com</strong>  
 
