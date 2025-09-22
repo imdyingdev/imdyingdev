@@ -1,5 +1,12 @@
 <h1 align="center">Yo, I'm John Grafe</h1>
 
+## 🎨 About Me
+
+- 💻 Developer | 🎨 Graphic & 3D Designer  
+- 📧 Reach me at: **johnrgrafe@gmail.com**
+
+---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -27,10 +34,3 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=imdyingdev&theme=onedark&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies"/>
 </p>
-
----
-
-## 🎨 About Me
-
-- 💻 Developer | 🎨 Graphic & 3D Designer  
-- 📧 Reach me at: **johnrgrafe@gmail.com**
