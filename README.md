@@ -5,8 +5,6 @@
 - 💻 Developer | 🎨 Graphic & 3D Designer  
 - 📧 Reach me at: **johnrgrafe@gmail.com**
 
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
