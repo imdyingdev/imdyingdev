@@ -3,8 +3,6 @@
 - 💻 Developer | 🎨 Graphic & 3D Designer  
 - 📧 Reach me at: <strong>johnrgrafe@gmail.com</strong>  
 
----
-
 <h2>📊 GitHub Analytics</h2>
 
 <p align="center">
@@ -17,7 +15,6 @@
     width="400"
   />
 </p>
----
 
 <h2>🚀 Fliptop Projects</h2>
 
