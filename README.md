@@ -7,11 +7,8 @@
 
 <h2>📊 GitHub Analytics</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imdyingdev&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imdyingdev&layout=compact&theme=radical&hide_border=true" height="160"/>
-</p>
-
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=imdyingdev&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs?username=imdyingdev&layout=compact&theme=radical)
 ---
 
 <h2>🚀 Fliptop Projects</h2>
