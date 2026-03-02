@@ -14,7 +14,7 @@
 
 ---
 
-<h2>🚀 Favorite Fliptop Projects</h2>
+<h2>🚀 Fliptop Projects</h2>
 
 <table>
   <tr>
@@ -26,13 +26,6 @@
       <strong>Isabuhay Tournament Analytics</strong>
     </td>
     <td align="center">
-      <a href="https://flipmatch-955668808781.us-central1.run.app/" target="_blank">
-        <img src="media/whatifbattles-preview.png" alt="FlipMatch App Preview" width="400"/>
-      </a>
-      <br/>
-      <strong>What if Battles?</strong>
-    </td>
-        <td align="center">
       <a href="https://fliptopcards.art/" target="_blank">
         <img src="media/fliptopcards-preview.png" alt="Fliptop Cards Collection" width="400"/>
       </a>
